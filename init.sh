@@ -29,5 +29,5 @@ echo Generating migration DDL code
 echo --------------------
 flask db migrate
 flask db upgrade
-#python test_data.py
+python test_data.py
 flask run
