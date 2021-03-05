@@ -1,6 +1,4 @@
-
+Command
 =========
-
-$ chmod +x init.sh 
-$ ./init.sh
+chmod +x init.sh && ./init.sh
 
