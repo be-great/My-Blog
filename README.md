@@ -1,5 +1,4 @@
-Command
-=========
+Command :) 
 chmod +x init.sh && ./init.sh
 Video link
 =========
