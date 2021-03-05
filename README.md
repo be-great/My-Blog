@@ -1,5 +1,7 @@
-Command :) 
+Command :
+
 chmod +x init.sh && ./init.sh
-Video link
-=========
+
+Video link :
+
 https://youtu.be/LJ3ud_PasJY
